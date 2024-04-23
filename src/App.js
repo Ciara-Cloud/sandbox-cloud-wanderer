@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit The Cloud Wanderer BLOG
+          Visit The Cloud Wanderer BLOG - sandbox
         </a>
       </header>
     </div>
