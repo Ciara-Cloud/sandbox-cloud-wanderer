@@ -10,6 +10,11 @@
       "StackName": "amplify-cloudwandererblog-dev-4acff",
       "StackId": "arn:aws:cloudformation:eu-west-1:654654391868:stack/amplify-cloudwandererblog-dev-4acff/909b7500-0185-11ef-800f-0296254d7d6b",
       "AmplifyAppId": "dz5t182jvadiw"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
     }
   }
 }
